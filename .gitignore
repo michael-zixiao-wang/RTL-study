@@ -27,7 +27,7 @@
 *.str
 *.dir
 *.prm
-*.sh
+# *.sh
 *.tcl
 
 # --- Verilator / C++ 编译文件 ---
