@@ -13,6 +13,13 @@
 *.out
 *.vvp
 
+# 相关工程文件夹
+**/vivado/
+**/modelsim/
+**/questasim/
+**/quartus/
+**/verilator/
+
 # --- Vivado / Quartus 中间文件夹 ---
 /build/
 /.Xil/
